@@ -2,3 +2,6 @@
 **/*.csv
 **/secrets.txt
 **/*.txt
+**/*.mp4
+**/*.gif
+**/*.zip
